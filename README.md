@@ -1,8 +1,7 @@
 # 📊 Organizador de Declaração de Imposto de Renda  
 
 ## 📌 Descrição  
-Este projeto é uma ferramenta criada no **Excel** para organizar e reunir informações essenciais para a declaração de imposto de renda. Com um sistema de **entrada de receitas, despesas e deduções**, o usuário pode controlar seus rendimentos de forma eficiente e validada.  
-
+Este projeto é uma ferramenta criada no **Excel** para organizar e reunir informações essenciais para a declaração de imposto de renda.
 ## 🔹 Funcionalidades  
 ✅ **Cadastro de receitas** (CNPJ, Freelancer, Holerite)  
 ✅ **Totalizador automático** por categoria  
